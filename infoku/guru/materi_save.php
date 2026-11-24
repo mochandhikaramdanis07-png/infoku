@@ -1,0 +1,11 @@
+<?php
+declare(strict_types=1);require __DIR__.'/_layout.php';$u=require_login('guru');
+if($_SERVER['REQUEST_METHOD']!=='POST'||!csrf_ok($_POST['csrf']??null)){http_response_code(403);exit('Permintaan tidak valid.');}
+$id=(string)($_POST['id']??'');if(!preg_match('/^M[1-9]$/',$id)){http_response_code(422);exit('Pertemuan tidak valid.');}
+$file=__DIR__.'/../data/materi.json';$d=json_decode((string)file_get_contents($file),true);if(!is_array($d)||!is_array($d['materi']??null)){http_response_code(500);exit('Data materi tidak dapat dibaca.');}
+$lines=static function($s):array{return array_values(array_filter(array_map('trim',preg_split('/\R/',(string)$s)),static fn($v)=>$v!==''));};
+$terms=[];$names=$_POST['term_name']??[];$descs=$_POST['term_desc']??[];foreach($names as $i=>$name){$name=trim((string)$name);$desc=trim((string)($descs[$i]??''));if($name!==''||$desc!=='')$terms[]=[$name,$desc];}
+$segments=[];$hs=$_POST['seg_h']??[];$ps=$_POST['seg_p']??[];$ks=$_POST['seg_k']??[];$vs=$_POST['seg_vis']??[];foreach($hs as $i=>$h){$h=trim((string)$h);$p=$lines($ps[$i]??'');$k=$lines($ks[$i]??'');if($h!==''||$p||$k){$seg=['h'=>$h,'p'=>$p,'k'=>$k];$vis=json_decode((string)($vs[$i]??''),true);if(is_array($vis))$seg['vis']=$vis;$segments[]=$seg;}}
+$steps=[];$sh=$_POST['step_h']??[];$st=$_POST['step_t']??[];foreach($sh as $i=>$h){$h=trim((string)$h);$t=trim((string)($st[$i]??''));if($h!==''||$t!=='')$steps[]=['h'=>$h,'t'=>$t];}
+$found=false;foreach($d['materi'] as &$m){if(($m['id']??'')!==$id)continue;$m['sem']=max(1,(int)($_POST['sem']??1));$m['judul']=trim((string)($_POST['judul']??''));$m['ringkas']=trim((string)($_POST['ringkas']??''));$m['pra']=trim((string)($_POST['pra']??''));$m['tujuan']=$lines($_POST['tujuan_text']??'');$m['istilah']=$terms;$m['segmen']=$segments;$m['contoh']=['judul'=>trim((string)($_POST['contoh_judul']??'')),'konteks'=>trim((string)($_POST['contoh_konteks']??'')),'langkah'=>$steps];$found=true;break;}unset($m);
+if(!$found){http_response_code(404);exit('Pertemuan tidak ditemukan.');}if($d['materi'][0]??false){}$json=json_encode($d,JSON_PRETTY_PRINT|JSON_UNESCAPED_UNICODE|JSON_UNESCAPED_SLASHES);if($json===false||file_put_contents($file,$json."\n",LOCK_EX)===false){http_response_code(500);exit('Gagal menyimpan materi. Periksa izin folder data.');}header('Location: edit_materi.php?id='.urlencode($id).'&saved=1');exit;

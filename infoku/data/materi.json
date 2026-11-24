@@ -1,0 +1,1035 @@
+{
+    "materi": [
+        {
+            "id": "M1",
+            "sem": 1,
+            "judul": "Berpikir Kronologis dan Diakronis dalam Sejarah",
+            "ringkas": "Memahami cara sejarawan menempatkan peristiwa dalam waktu: kronologi, berpikir diakronis dan sinkronis, periodisasi, sebab-akibat, serta manfaatnya untuk berpikir kritis di sekolah dan dunia kerja.",
+            "tujuan": [
+                "Menjelaskan makna sejarah dan alasan waktu menjadi unsur utama dalam mempelajarinya.",
+                "Menyusun urutan peristiwa sejarah Indonesia secara kronologis dengan tepat.",
+                "Membedakan berpikir diakronis dan berpikir sinkronis, lalu menerapkan keduanya pada satu peristiwa.",
+                "Menjelaskan periodisasi sejarah Indonesia beserta ciri utama tiap periode.",
+                "Menganalisis hubungan sebab-akibat serta kesinambungan dan perubahan dalam suatu peristiwa.",
+                "Menunjukkan sikap kritis, objektif, dan menghargai proses dalam melihat keterkaitan masa lalu dengan masa kini."
+            ],
+            "istilah": [
+                [
+                    "Sejarah",
+                    "Peristiwa masa lampau manusia yang ditelaah dan direkonstruksi secara ilmiah berdasarkan sumber.",
+                    "Proklamasi 17 Agustus 1945 adalah peristiwa sejarah; sarapanmu kemarin bukan."
+                ],
+                [
+                    "Kronologi",
+                    "Urutan peristiwa berdasarkan waktu terjadinya, dari yang paling awal sampai yang terakhir.",
+                    "1908 Budi Utomo, 1928 Sumpah Pemuda, 1945 Proklamasi."
+                ],
+                [
+                    "Diakronis",
+                    "Cara memandang peristiwa secara memanjang dalam waktu: bagaimana sesuatu berproses dan berubah.",
+                    "Menelusuri perkembangan organisasi pergerakan dari 1908 sampai 1945."
+                ],
+                [
+                    "Sinkronis",
+                    "Cara memandang peristiwa secara meluas dalam ruang pada satu waktu tertentu: apa saja yang terjadi bersamaan.",
+                    "Mengamati politik, ekonomi, sosial, dan budaya pada masa pendudukan Jepang sekaligus."
+                ],
+                [
+                    "Periodisasi",
+                    "Pembagian rangkaian sejarah menjadi babak atau masa berdasarkan ciri-ciri yang menonjol.",
+                    "Membagi sejarah Indonesia menjadi masa Hindu-Buddha, Islam, kolonial, dan kemerdekaan."
+                ],
+                [
+                    "Kausalitas",
+                    "Hubungan sebab-akibat; setiap peristiwa punya latar belakang dan menimbulkan dampak.",
+                    "Penderitaan akibat penjajahan (sebab) mendorong lahirnya pergerakan nasional (akibat)."
+                ],
+                [
+                    "Kontinuitas",
+                    "Hal yang bertahan atau berlanjut dari satu masa ke masa berikutnya.",
+                    "Gotong royong tetap hidup dari masa kerajaan sampai sekarang."
+                ],
+                [
+                    "Perubahan",
+                    "Hal yang berbeda atau berganti dari satu masa ke masa berikutnya.",
+                    "Bentuk pemerintahan berganti dari kerajaan menjadi republik."
+                ],
+                [
+                    "Anakronisme",
+                    "Kekeliruan menempatkan peristiwa, tokoh, atau benda pada waktu yang salah.",
+                    "Menulis bahwa tokoh tahun 1920-an mengunggah pidato ke media sosial."
+                ],
+                [
+                    "Sumber primer",
+                    "Sumber yang dibuat pada masa peristiwa terjadi, misalnya arsip, surat, foto, atau kesaksian pelaku.",
+                    "Naskah proklamasi tulisan tangan atau foto pembacaan proklamasi 1945."
+                ]
+            ],
+            "latihan": {
+                "q": "Bagaimana pendekatan diakronis digunakan untuk memahami kebijakan kepemimpinan Presiden Prabowo Subianto dalam konteks sejarah politik Indonesia?",
+                "o": [
+                    "Melihat kebijakan Prabowo hanya berdasarkan kondisi ekonomi pada hari pelantikannya saja",
+                    "Membandingkan kebijakan pertahanan dan pangan Prabowo saat ini dengan program masa lalu seperti era Orde Baru dan reformasi secara berkesinambungan",
+                    "Menganalisis struktur kabinet Prabowo tanpa memerhatikan latar belakang waktu pembentukannya",
+                    "Fokus pada satu peristiwa tunggal tanpa menghubungkannya dengan kebijakan presiden sebelumnya"
+                ],
+                "a": 1,
+                "w": "Pendekatan diakronis menekankan pada dimensi waktu dan proses perubahan dari masa ke masa. Dalam konteks kepresidenan Prabowo, pendekatan ini melihat bagaimana kebijakan saat ini merupakan kelanjutan atau evaluasi dari dinamika sejarah politik dan ekonomi Indonesia sebelumnya."
+            },
+            "kuis": [
+                {
+                    "q": "Dalam menganalisis program 'Makan Bergizi Gratis' yang dicanangkan oleh Presiden Prabowo, berpikir secara kronologis berarti...",
+                    "o": [
+                        "Menghitung jumlah anggaran secara acak tanpa urutan waktu",
+                        "Menyusun tahapan perencanaan, peluncuran, hingga evaluasi program sesuai dengan urutan waktu kejadiannya",
+                        "Menilai keberhasilan program hanya dari satu sudut pandang menteri terkait",
+                        "Membandingkan program tersebut dengan negara lain di masa depan"
+                    ],
+                    "a": 1,
+                    "w": "Berpikir kronologis menuntut penyusunan peristiwa atau tahapan program secara runtut berdasarkan urutan waktu kejadiannya untuk melihat alur proses yang sistematis."
+                },
+                {
+                    "q": "Penerapan konsep diakronis dalam mempelajari masa pemerintahan Presiden Prabowo Subianto sangat penting bagi siswa SMK agar...",
+                    "o": [
+                        "Dapat menghafal seluruh tanggal penting tanpa memahami makna",
+                        "Memahami bahwa kebijakan politik dan ekonomi saat ini adalah produk dari proses sejarah yang panjang dan berkelanjutan",
+                        "Mampu meramalkan hasil pemilu di masa depan secara pasti",
+                        "Mengetahui daftar nama menteri kabinet secara kronologis"
+                    ],
+                    "a": 1,
+                    "w": "Konsep diakronis membantu siswa melihat hubungan kausalitas dan proses evolusi kebijakan dari masa lalu hingga masa kini, bukan sekadar hafalan peristiwa."
+                },
+                {
+                    "q": "Ketika seorang siswa SMK menganalisis pidato kenegaraan pertama Presiden Prabowo dengan menghubungkannya pada tantangan nasional dari era kemerdekaan hingga era reformasi, siswa tersebut sedang menggunakan cara pandang...",
+                    "o": [
+                        "Diakronis",
+                        "Sinkronis",
+                        "Spasial",
+                        "Statistik"
+                    ],
+                    "a": 0,
+                    "w": "Menghubungkan suatu peristiwa atau pidato saat ini dengan latar belakang historis dari berbagai era sebelumnya merupakan ciri utama dari cara pandang diakronis (memanjang dalam waktu)."
+                }
+            ],
+            "pra": "Bayangkan kamu membaca novel yang halamannya tercampur aduk, atau menonton serial dari episode terakhir lebih dulu. Ceritanya tetap ada, tetapi sulit dipahami karena urutannya hilang. Sejarah bekerja dengan cara yang sama: peristiwa baru bermakna kalau kita tahu kapan terjadinya, apa yang mendahului, dan apa yang menyusul. Pelajari dulu tiga hal ini sebelum mulai: (1) sejarah bukan hanya hafalan tahun, (2) setiap peristiwa punya sebab dan akibat, (3) cara berpikir yang runtut bisa dipakai di bidang apa pun, termasuk di bidang keahlianmu di SMK.",
+            "segmen": [
+                {
+                    "h": "Makna dan Manfaat Mempelajari Sejarah",
+                    "p": [
+                        "Secara sederhana, sejarah adalah peristiwa masa lampau manusia yang dikaji secara ilmiah. Kata \"ilmiah\" penting: sejarawan tidak menulis berdasarkan dugaan, tetapi berdasarkan sumber seperti dokumen, benda peninggalan, foto, dan kesaksian yang diperiksa kebenarannya.",
+                        "Tidak semua kejadian masa lalu menjadi sejarah. Kejadian disebut peristiwa sejarah bila punya dampak luas, dialami banyak orang, dan meninggalkan jejak yang dapat ditelusuri. Sarapan pagimu kemarin adalah kejadian masa lalu, tetapi bukan peristiwa sejarah.",
+                        "Ada empat manfaat utama belajar sejarah. Pertama, edukatif: mengambil pelajaran dari keberhasilan dan kegagalan masa lalu. Kedua, inspiratif: meneladani semangat dan kerja keras para tokoh. Ketiga, rekreatif: menikmati cerita dan keindahan peninggalan masa lalu. Keempat, instruktif: dipakai sebagai bahan pembelajaran, misalnya dalam pelatihan dan penyusunan kebijakan.",
+                        "Karena itu belajar sejarah bukan menghafal \"kapan\", tetapi melatih kebiasaan bertanya \"mengapa\" dan \"apa akibatnya\". Kebiasaan ini yang akan kita latih sepanjang pertemuan ini."
+                    ],
+                    "k": [
+                        "sejarah",
+                        "ilmiah",
+                        "sumber",
+                        "edukatif"
+                    ],
+                    "vis": {
+                        "t": "flow",
+                        "items": [
+                            "Peristiwa masa lampau",
+                            "Sumber dan bukti",
+                            "Penafsiran ilmiah",
+                            "Pelajaran masa kini"
+                        ]
+                    },
+                    "i": [
+                        "Sumber primer"
+                    ]
+                },
+                {
+                    "h": "Waktu sebagai Unsur Utama: Kronologi",
+                    "p": [
+                        "Kronologi adalah urutan peristiwa menurut waktu terjadinya. Tanpa kronologi, kita tidak bisa menentukan mana sebab dan mana akibat, karena sebab selalu terjadi lebih dahulu daripada akibatnya.",
+                        "Kronologi menuntut ketepatan tahun, bulan, bahkan tanggal. Itulah sebabnya sejarah punya sisi numerasi: sejarawan menghitung selisih tahun, membandingkan lamanya suatu masa, dan memeriksa apakah dua peristiwa mungkin terjadi pada waktu yang sama.",
+                        "Perhatikan contoh urutan berikut. Budi Utomo berdiri pada 1908 dan sering disebut tonggak awal pergerakan nasional. Sumpah Pemuda diikrarkan pada 1928, atau 20 tahun kemudian. Kemudian Jepang menguasai Indonesia pada 1942, proklamasi dibacakan pada 1945, dan Belanda mengakui kedaulatan Indonesia pada 1949.",
+                        "Bila satu peristiwa dipindah ke tempat yang salah, ceritanya ikut keliru. Misalnya, menyebut Sumpah Pemuda terjadi sesudah proklamasi akan membuat orang mengira para pemuda baru bersatu setelah merdeka, padahal persatuan itu justru menjadi modal menuju kemerdekaan."
+                    ],
+                    "k": [
+                        "kronologi",
+                        "1908",
+                        "1928",
+                        "1945"
+                    ],
+                    "vis": {
+                        "t": "table",
+                        "head": [
+                            "Tahun",
+                            "Peristiwa penting"
+                        ],
+                        "rows": [
+                            [
+                                "1908",
+                                "Berdirinya Budi Utomo"
+                            ],
+                            [
+                                "1928",
+                                "Ikrar Sumpah Pemuda"
+                            ],
+                            [
+                                "1942",
+                                "Awal pendudukan Jepang"
+                            ],
+                            [
+                                "1945",
+                                "Proklamasi Kemerdekaan Indonesia"
+                            ],
+                            [
+                                "1949",
+                                "Pengakuan kedaulatan oleh Belanda"
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "h": "Berpikir Diakronis: Memanjang dalam Waktu",
+                    "p": [
+                        "Berpikir diakronis berarti mengikuti satu hal sepanjang perjalanan waktu. Pertanyaan khasnya adalah: bagaimana ini bermula, bagaimana berkembang, dan bagaimana sampai pada keadaan sekarang. Cakupannya sempit dalam ruang, tetapi panjang dalam waktu.",
+                        "Contohnya menelusuri perkembangan organisasi pergerakan nasional: dari Budi Utomo yang bergerak di bidang pendidikan dan budaya, ke Sarekat Islam yang berbasis dagang dan massa, lalu ke organisasi yang terang-terangan menuntut kemerdekaan. Dari tiap tahap kita bisa melihat tujuan dan cara perjuangan yang berubah.",
+                        "Pendekatan diakronis cocok dipakai untuk menjawab pertanyaan tentang proses, misalnya \"bagaimana perjuangan bangsa berkembang dari perlawanan daerah menjadi pergerakan nasional\". Hasilnya berupa alur cerita yang runtut dari awal sampai akhir.",
+                        "Kelemahannya, bila hanya memakai cara ini kita bisa kehilangan gambaran menyeluruh pada satu titik waktu. Kita tahu alurnya, tetapi belum tentu tahu apa saja yang terjadi di bidang lain pada saat yang sama. Karena itu cara ini perlu dilengkapi dengan berpikir sinkronis."
+                    ],
+                    "k": [
+                        "diakronis",
+                        "proses",
+                        "Budi Utomo",
+                        "Sarekat Islam"
+                    ],
+                    "vis": {
+                        "t": "flow",
+                        "items": [
+                            "Awal mula",
+                            "Perkembangan",
+                            "Puncak peristiwa",
+                            "Dampak jangka panjang"
+                        ]
+                    }
+                },
+                {
+                    "h": "Berpikir Sinkronis: Meluas dalam Ruang",
+                    "p": [
+                        "Berpikir sinkronis adalah kebalikannya. Kita \"membekukan\" satu masa tertentu, lalu melihat sebanyak mungkin aspek yang terjadi bersamaan: politik, ekonomi, sosial, dan budaya.",
+                        "Ambil masa pendudukan Jepang pada 1942 sampai 1945. Secara sinkronis kita bertanya: apa yang terjadi di bidang politik, ekonomi, sosial, dan budaya pada masa itu? Jawabannya mencakup pembentukan organisasi bentukan Jepang, pengerahan tenaga kerja dan hasil bumi, perubahan susunan masyarakat, serta penggunaan propaganda dan bahasa.",
+                        "Hasilnya bukan alur cerita, melainkan potret yang luas dan saling berkaitan. Dari potret ini kita paham mengapa banyak rakyat menderita sekaligus mengapa semangat kebangsaan justru menguat pada masa yang sama.",
+                        "Gabungan keduanya sangat kuat: diakronis memberi alur, sinkronis memberi kedalaman. Sejarawan yang baik berpindah-pindah di antara dua cara pandang ini sesuai pertanyaan yang ingin dijawab."
+                    ],
+                    "k": [
+                        "sinkronis",
+                        "politik",
+                        "ekonomi",
+                        "sosial"
+                    ],
+                    "vis": {
+                        "t": "tree",
+                        "root": "Masa Pendudukan Jepang (1942-1945)",
+                        "kids": [
+                            "Politik: organisasi bentukan Jepang dan persiapan kemerdekaan",
+                            "Ekonomi: pengerahan tenaga kerja dan hasil bumi",
+                            "Sosial: perubahan susunan dan kehidupan masyarakat",
+                            "Budaya: propaganda dan penggunaan bahasa Indonesia"
+                        ]
+                    }
+                },
+                {
+                    "h": "Periodisasi: Membagi Sejarah Panjang ke dalam Babak",
+                    "p": [
+                        "Sejarah Indonesia sangat panjang. Agar mudah dipelajari, para ahli membaginya ke dalam babak-babak berdasarkan ciri yang menonjol. Pembagian ini disebut periodisasi.",
+                        "Pembagian yang umum dipakai di buku pelajaran adalah masa praaksara, masa Hindu-Buddha, masa Islam, masa kolonial, masa pendudukan Jepang, dan masa kemerdekaan. Setiap babak punya ciri utama, misalnya sistem kerajaan, agama yang berpengaruh, atau bentuk pemerintahan.",
+                        "Perlu diingat bahwa batas antarperiode tidak setajam garis di peta. Pengaruh Hindu-Buddha tidak hilang begitu saja saat Islam berkembang; keduanya hidup berdampingan dan saling memengaruhi. Karena itu periodisasi adalah alat bantu berpikir, bukan dinding pemisah.",
+                        "Sebuah periodisasi juga tergantung tujuan. Sejarawan ekonomi bisa membuat pembagian yang berbeda dengan sejarawan politik. Yang penting, kriteria pembaginya jelas dan dapat dipertanggungjawabkan."
+                    ],
+                    "k": [
+                        "periodisasi",
+                        "Hindu-Buddha",
+                        "kolonial",
+                        "ciri"
+                    ],
+                    "vis": {
+                        "t": "table",
+                        "head": [
+                            "Periode",
+                            "Ciri utama"
+                        ],
+                        "rows": [
+                            [
+                                "Praaksara",
+                                "Belum mengenal tulisan; hidup berburu dan bercocok tanam"
+                            ],
+                            [
+                                "Hindu-Buddha",
+                                "Kerajaan bercorak Hindu dan Buddha, misalnya Kutai dan Majapahit"
+                            ],
+                            [
+                                "Islam",
+                                "Perkembangan kerajaan dan jalur perdagangan Islam"
+                            ],
+                            [
+                                "Kolonial",
+                                "Kekuasaan VOC dan Hindia Belanda"
+                            ],
+                            [
+                                "Pendudukan Jepang",
+                                "1942 sampai 1945, mobilisasi dan propaganda"
+                            ],
+                            [
+                                "Kemerdekaan",
+                                "Sejak proklamasi 1945 hingga kini"
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "h": "Kausalitas, Kontinuitas, dan Perubahan",
+                    "p": [
+                        "Setiap peristiwa punya sebab dan akibat. Sebab dibedakan menjadi latar belakang jangka panjang dan pemicu yang langsung. Proklamasi 17 Agustus 1945, misalnya, dilatarbelakangi oleh penderitaan akibat penjajahan dan tumbuhnya kesadaran kebangsaan selama puluhan tahun, sementara pemicunya adalah menyerahnya Jepang kepada Sekutu pada Agustus 1945.",
+                        "Selain sebab-akibat, sejarawan memperhatikan apa yang berubah dan apa yang bertahan. Perubahan terlihat pada bentuk pemerintahan dan teknologi. Kontinuitas terlihat pada nilai gotong royong dan musyawarah yang tetap hidup dari masa ke masa.",
+                        "Waspadai anakronisme, yaitu menempatkan sesuatu pada waktu yang salah. Menulis bahwa seorang tokoh abad ke-19 mengirim pesan lewat media sosial jelas keliru. Kesalahan yang lebih halus: menilai orang masa lalu memakai ukuran masa kini tanpa memahami keadaan pada zamannya.",
+                        "Untuk menghindari kekeliruan itu, biasakan memeriksa tiga hal: kapan peristiwa terjadi, apa yang sudah ada dan belum ada pada masa itu, serta bagaimana pelakunya memandang keadaannya sendiri."
+                    ],
+                    "k": [
+                        "sebab",
+                        "akibat",
+                        "kontinuitas",
+                        "anakronisme"
+                    ],
+                    "vis": {
+                        "t": "flow",
+                        "items": [
+                            "Latar belakang jangka panjang",
+                            "Pemicu langsung",
+                            "Peristiwa",
+                            "Dampak dan kelanjutan"
+                        ]
+                    },
+                    "i": [
+                        "Kausalitas",
+                        "Kontinuitas",
+                        "Perubahan",
+                        "Anakronisme"
+                    ]
+                },
+                {
+                    "h": "Sejarah sebagai Cara Berpikir di Sekolah dan Dunia Kerja",
+                    "p": [
+                        "Kebiasaan berpikir runtut yang dilatih di pelajaran sejarah ternyata sangat berguna di luar kelas. Seorang teknisi menelusuri riwayat kerusakan mesin dari catatan perawatan. Seorang pelaku usaha membaca perkembangan penjualan dari bulan ke bulan. Keduanya memakai logika kronologis dan diakronis.",
+                        "Berpikir sinkronis juga dipakai saat mengambil keputusan: sebelum membuka usaha baru, seseorang melihat kondisi pasar, pesaing, modal, dan kebiasaan pembeli pada saat yang sama. Itu mirip dengan cara sejarawan membaca satu masa dari banyak sisi.",
+                        "Sikap objektif, yaitu memeriksa sumber, membandingkan keterangan, dan tidak cepat menyimpulkan, melindungi kita dari berita palsu. Saat menemukan kabar yang mengatasnamakan peristiwa masa lalu, kita bisa bertanya: apa sumbernya, dibuat kapan, dan oleh siapa.",
+                        "Terakhir, mempelajari perjuangan tokoh dan masyarakat masa lalu menumbuhkan rasa hormat dan tanggung jawab. Kemerdekaan bukan hadiah yang datang tiba-tiba, melainkan hasil proses panjang yang perlu dijaga dengan karya nyata di bidang masing-masing."
+                    ],
+                    "k": [
+                        "objektif",
+                        "sumber",
+                        "berita palsu",
+                        "tanggung jawab"
+                    ],
+                    "vis": {
+                        "t": "flow",
+                        "items": [
+                            "Periksa sumber",
+                            "Susun urutan waktu",
+                            "Lihat sebab dan akibat",
+                            "Ambil keputusan bijak"
+                        ]
+                    }
+                }
+            ],
+            "contoh": {
+                "judul": "Menelusuri Jalan Panjang Menuju Proklamasi 17 Agustus 1945",
+                "konteks": "Kamu diminta menyusun ringkasan satu halaman berjudul \"Mengapa Indonesia merdeka pada 1945?\" untuk majalah dinding sekolah. Ringkasan harus runtut, tepat waktu, dan menjelaskan hubungan antarperistiwa, bukan sekadar daftar tahun.",
+                "langkah": [
+                    {
+                        "h": "Rumuskan pertanyaan",
+                        "t": "Tulis pertanyaan inti: apa saja yang mendorong terjadinya proklamasi 1945? Pertanyaan yang jelas membantumu memilih peristiwa mana yang perlu dimasukkan."
+                    },
+                    {
+                        "h": "Kumpulkan peristiwa dan sumbernya",
+                        "t": "Catat peristiwa kunci beserta tahunnya dan dari mana datanya: Budi Utomo 1908, Sumpah Pemuda 1928, pendudukan Jepang 1942, pembentukan BPUPKI 1945, dan proklamasi 17 Agustus 1945. Periksa tahun di lebih dari satu sumber."
+                    },
+                    {
+                        "h": "Susun kronologi",
+                        "t": "Urutkan peristiwa dari yang paling awal ke yang paling akhir, lalu hitung selisih waktunya. Contoh: dari Sumpah Pemuda ke proklamasi berjarak 17 tahun."
+                    },
+                    {
+                        "h": "Analisis secara diakronis",
+                        "t": "Jelaskan bagaimana tiap peristiwa membuka jalan bagi peristiwa berikutnya, misalnya dari pergerakan organisasi, ke ikrar persatuan, ke persiapan kemerdekaan."
+                    },
+                    {
+                        "h": "Lengkapi secara sinkronis",
+                        "t": "Pilih satu titik waktu, misalnya tahun 1945, lalu catat keadaan politik, ekonomi, sosial, dan budaya pada saat itu untuk menjelaskan mengapa kesempatan merdeka terbuka."
+                    },
+                    {
+                        "h": "Tulis kesimpulan dan refleksi",
+                        "t": "Simpulkan sebab jangka panjang dan pemicu langsung proklamasi, lalu tutup dengan satu kalimat refleksi tentang nilai persatuan dan kerja keras yang bisa kamu terapkan di sekolah."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "M2",
+            "sem": 1,
+            "judul": "Literasi Digital dan TIK",
+            "ringkas": "Menilai informasi, mengolah dokumen, berkolaborasi, dan memahami hak cipta.",
+            "tujuan": [
+                "Menilai kredibilitas informasi dan sumber.",
+                "Memilih aplikasi dokumen, lembar kerja, atau presentasi sesuai kebutuhan.",
+                "Memahami hak cipta dan lisensi karya visual."
+            ],
+            "istilah": [
+                [
+                    "Kredibilitas",
+                    "Tingkat kepercayaan terhadap suatu sumber informasi."
+                ],
+                [
+                    "Hak cipta",
+                    "Perlindungan hukum atas karya milik pembuatnya."
+                ],
+                [
+                    "Lisensi",
+                    "Aturan yang menjelaskan bagaimana karya boleh dipakai."
+                ],
+                [
+                    "Atribusi",
+                    "Mencantumkan nama pembuat dan sumber karya."
+                ]
+            ],
+            "latihan": {
+                "q": "Kamu menemukan gambar bagus di hasil pencarian, tetapi tidak ada informasi lisensinya. Langkah terbaik adalah...",
+                "o": [
+                    "Langsung memakainya karena gambar itu ada di internet",
+                    "Menelusuri sumber asli dan memeriksa lisensinya sebelum memakai",
+                    "Menghapus nama pembuat agar terlihat orisinal",
+                    "Mengubah warnanya sedikit lalu memakainya"
+                ],
+                "a": 1,
+                "w": "Gambar yang muncul di mesin pencari belum tentu bebas dipakai. Telusuri sumbernya dan periksa lisensinya dulu."
+            },
+            "kuis": [
+                {
+                    "q": "Lisensi CC BY berarti karya boleh dipakai dengan syarat...",
+                    "o": [
+                        "Membayar pembuatnya setiap bulan",
+                        "Mencantumkan nama pembuat",
+                        "Mengubah karya sepenuhnya",
+                        "Tidak membagikan hasilnya"
+                    ],
+                    "a": 1,
+                    "w": "CC BY mewajibkan atribusi, yaitu mencantumkan pembuat karya."
+                },
+                {
+                    "q": "Manakah tanda bahwa sebuah sumber lebih tepercaya?",
+                    "o": [
+                        "Judul memakai huruf kapital",
+                        "Penulis jelas, tanggal terbit tercantum, dan ada rujukan",
+                        "Banyak iklan di halaman",
+                        "Dibagikan banyak orang tanpa sumber"
+                    ],
+                    "a": 1,
+                    "w": "Penulis, tanggal, dan rujukan membantu kita memeriksa kebenaran informasi."
+                },
+                {
+                    "q": "Riwayat versi pada dokumen bersama berguna untuk...",
+                    "o": [
+                        "Memulihkan versi sebelumnya bila terjadi kesalahan",
+                        "Mengunci dokumen dari semua orang",
+                        "Menghapus komentar anggota tim",
+                        "Mengubah lisensi dokumen"
+                    ],
+                    "a": 0,
+                    "w": "Riwayat versi menyimpan perubahan sehingga isi lama dapat dipulihkan."
+                }
+            ]
+        },
+        {
+            "id": "M3",
+            "sem": 1,
+            "judul": "Sistem Komputer",
+            "ringkas": "Perangkat keras, perangkat lunak, sistem operasi, dan alur input, proses, output.",
+            "tujuan": [
+                "Mengelompokkan perangkat keras berdasarkan fungsinya.",
+                "Membedakan sistem operasi dan aplikasi.",
+                "Menjelaskan alur input, proses, dan output."
+            ],
+            "istilah": [
+                [
+                    "Perangkat keras",
+                    "Bagian komputer yang berwujud, seperti prosesor dan monitor."
+                ],
+                [
+                    "Perangkat lunak",
+                    "Program yang dijalankan komputer."
+                ],
+                [
+                    "Sistem operasi",
+                    "Perangkat lunak yang mengelola perangkat keras dan aplikasi."
+                ],
+                [
+                    "RAM",
+                    "Memori sementara untuk data yang sedang diproses."
+                ]
+            ],
+            "latihan": {
+                "q": "Pen tablet yang dipakai untuk menggambar termasuk perangkat...",
+                "o": [
+                    "Output",
+                    "Penyimpanan",
+                    "Input",
+                    "Perangkat lunak"
+                ],
+                "a": 2,
+                "w": "Pen tablet mengirim data goresan ke komputer, jadi termasuk perangkat input."
+            },
+            "kuis": [
+                {
+                    "q": "Fungsi utama sistem operasi adalah...",
+                    "o": [
+                        "Mengedit gambar",
+                        "Mengelola perangkat keras dan menjalankan aplikasi",
+                        "Menghubungkan komputer ke listrik",
+                        "Mencetak dokumen"
+                    ],
+                    "a": 1,
+                    "w": "Sistem operasi menjadi penghubung antara pengguna, aplikasi, dan perangkat keras."
+                },
+                {
+                    "q": "RAM dipakai untuk...",
+                    "o": [
+                        "Menyimpan data permanen",
+                        "Menyimpan sementara data yang sedang diproses",
+                        "Menampilkan gambar di layar",
+                        "Menghubungkan ke internet"
+                    ],
+                    "a": 1,
+                    "w": "RAM menyimpan sementara data dan program yang sedang dipakai. Data permanen disimpan di SSD atau HDD."
+                },
+                {
+                    "q": "Urutan alur kerja komputer yang benar adalah...",
+                    "o": [
+                        "Output, proses, input",
+                        "Proses, input, output",
+                        "Input, proses, output",
+                        "Input, output, proses"
+                    ],
+                    "a": 2,
+                    "w": "Data dimasukkan (input), diolah (proses), lalu ditampilkan (output)."
+                }
+            ]
+        },
+        {
+            "id": "M4",
+            "sem": 1,
+            "judul": "Jaringan dan Keamanan Digital",
+            "ringkas": "Konsep jaringan, berbagi file dengan aman, dan melindungi akun serta data.",
+            "tujuan": [
+                "Menjelaskan cara perangkat terhubung dalam jaringan dan internet.",
+                "Mengatur izin saat berbagi file desain.",
+                "Menerapkan kebiasaan aman untuk akun dan data pribadi."
+            ],
+            "istilah": [
+                [
+                    "Jaringan",
+                    "Kumpulan perangkat yang saling terhubung untuk berbagi data."
+                ],
+                [
+                    "Router",
+                    "Perangkat yang meneruskan data antarjaringan."
+                ],
+                [
+                    "Phishing",
+                    "Penipuan untuk mencuri data lewat pesan atau situs palsu."
+                ],
+                [
+                    "Autentikasi dua langkah",
+                    "Verifikasi tambahan selain kata sandi."
+                ]
+            ],
+            "latihan": {
+                "q": "Klien hanya perlu memberi masukan pada desainmu. Izin yang paling tepat adalah...",
+                "o": [
+                    "Edit",
+                    "Komentar",
+                    "Pemilik",
+                    "Terbuka untuk siapa saja yang punya tautan"
+                ],
+                "a": 1,
+                "w": "Berikan izin paling kecil yang cukup. Untuk memberi masukan, izin komentar sudah memadai."
+            },
+            "kuis": [
+                {
+                    "q": "Kode OTP yang dikirim ke ponselmu sebaiknya...",
+                    "o": [
+                        "Dibagikan ke teman yang meminta",
+                        "Diberikan kepada siapa pun yang mengaku petugas",
+                        "Dijaga rahasia dan tidak dibagikan",
+                        "Ditulis di profil agar tidak lupa"
+                    ],
+                    "a": 2,
+                    "w": "OTP adalah kunci tambahan untuk akunmu. Jangan dibagikan kepada siapa pun."
+                },
+                {
+                    "q": "Phishing adalah...",
+                    "o": [
+                        "Teknik mempercepat internet",
+                        "Upaya menipu agar korban menyerahkan data lewat pesan atau situs palsu",
+                        "Cara membuat cadangan file",
+                        "Jenis kabel jaringan"
+                    ],
+                    "a": 1,
+                    "w": "Phishing meniru pihak tepercaya untuk mencuri data seperti kata sandi."
+                },
+                {
+                    "q": "Kata sandi mana yang paling kuat?",
+                    "o": [
+                        "Tanggal lahirmu",
+                        "password",
+                        "namamu123",
+                        "Kalimat acak yang panjang berisi huruf, angka, dan simbol"
+                    ],
+                    "a": 3,
+                    "w": "Kata sandi yang panjang, acak, dan unik lebih sulit ditebak."
+                }
+            ]
+        },
+        {
+            "id": "M5",
+            "sem": 2,
+            "judul": "Produksi dan Kolaborasi Konten Digital",
+            "ringkas": "Merencanakan, membuat, menyebarkan, dan mengevaluasi konten bersama tim.",
+            "tujuan": [
+                "Menyusun alur produksi konten sesuai tujuan dan audiens.",
+                "Berkolaborasi dengan pembagian peran dan pengelolaan file.",
+                "Mengevaluasi hasil penyebaran konten."
+            ],
+            "istilah": [
+                [
+                    "Audiens",
+                    "Kelompok orang yang menjadi sasaran konten."
+                ],
+                [
+                    "Jangkauan",
+                    "Jumlah akun berbeda yang melihat konten."
+                ],
+                [
+                    "Interaksi",
+                    "Tindakan audiens seperti suka, komentar, atau bagikan."
+                ],
+                [
+                    "Versi",
+                    "Tahapan perubahan sebuah file."
+                ]
+            ],
+            "latihan": {
+                "q": "Tahap yang dikerjakan paling awal dalam produksi konten promosi adalah...",
+                "o": [
+                    "Mengunggah ke media sosial",
+                    "Menentukan tujuan dan audiens",
+                    "Menyunting video",
+                    "Mengukur jangkauan"
+                ],
+                "a": 1,
+                "w": "Tujuan dan audiens menentukan pesan, gaya visual, dan platform yang dipilih."
+            },
+            "kuis": [
+                {
+                    "q": "Aturan penamaan file dalam tim berguna agar...",
+                    "o": [
+                        "File tampak lebih panjang",
+                        "File mudah ditemukan dan versi tidak tertukar",
+                        "Ukuran file mengecil",
+                        "Aplikasi berjalan lebih cepat"
+                    ],
+                    "a": 1,
+                    "w": "Nama yang seragam memudahkan pencarian dan menghindari salah versi."
+                },
+                {
+                    "q": "Ukuran yang menunjukkan berapa banyak akun berbeda melihat kontenmu disebut...",
+                    "o": [
+                        "Jangkauan",
+                        "Resolusi",
+                        "Lisensi",
+                        "Piksel"
+                    ],
+                    "a": 0,
+                    "w": "Jangkauan menghitung jumlah akun berbeda yang melihat konten."
+                },
+                {
+                    "q": "Platform untuk menyebarkan konten sebaiknya dipilih berdasarkan...",
+                    "o": [
+                        "Platform yang paling disukai pembuat konten",
+                        "Kebiasaan audiens yang dituju",
+                        "Platform yang tampilannya paling berwarna",
+                        "Platform yang paling baru"
+                    ],
+                    "a": 1,
+                    "w": "Konten efektif bila berada di tempat audiens sasaran biasa mencari informasi."
+                }
+            ]
+        },
+        {
+            "id": "M6",
+            "sem": 2,
+            "judul": "Algoritma dan Pemrograman",
+            "ringkas": "Pseudocode, flowchart, variabel, percabangan, dan perulangan.",
+            "tujuan": [
+                "Menulis algoritma dalam bentuk pseudocode dan flowchart.",
+                "Memakai variabel dan percabangan untuk memilih tindakan.",
+                "Memakai perulangan untuk pekerjaan yang berulang."
+            ],
+            "istilah": [
+                [
+                    "Pseudocode",
+                    "Tulisan langkah program dengan bahasa sehari-hari yang terstruktur."
+                ],
+                [
+                    "Variabel",
+                    "Wadah bernama untuk menyimpan nilai."
+                ],
+                [
+                    "Percabangan",
+                    "Pemilihan tindakan berdasarkan kondisi."
+                ],
+                [
+                    "Perulangan",
+                    "Pengulangan langkah beberapa kali."
+                ]
+            ],
+            "latihan": {
+                "q": "Struktur yang dipakai untuk memilih tindakan berdasarkan suatu kondisi disebut...",
+                "o": [
+                    "Perulangan",
+                    "Percabangan",
+                    "Variabel",
+                    "Flowchart"
+                ],
+                "a": 1,
+                "w": "Percabangan (JIKA ... MAKA ... SELAIN ITU) memilih tindakan sesuai kondisi."
+            },
+            "kuis": [
+                {
+                    "q": "Perintah ULANGI 4 KALI: TAMPILKAN \"Halo\" akan menampilkan kata Halo sebanyak...",
+                    "o": [
+                        "1 kali",
+                        "2 kali",
+                        "4 kali",
+                        "8 kali"
+                    ],
+                    "a": 2,
+                    "w": "Perulangan menjalankan perintah di dalamnya sebanyak 4 kali."
+                },
+                {
+                    "q": "Pada flowchart, bentuk belah ketupat dipakai untuk...",
+                    "o": [
+                        "Mulai atau selesai",
+                        "Keputusan",
+                        "Proses",
+                        "Input atau output"
+                    ],
+                    "a": 1,
+                    "w": "Belah ketupat menandai keputusan dengan dua atau lebih cabang jawaban."
+                },
+                {
+                    "q": "Perhatikan: JIKA nilai >= 75 MAKA \"Lulus\" SELAIN ITU \"Remedial\". Jika nilai = 70, hasilnya...",
+                    "o": [
+                        "Lulus",
+                        "Remedial",
+                        "Tidak ada hasil",
+                        "Error"
+                    ],
+                    "a": 1,
+                    "w": "70 tidak memenuhi syarat nilai >= 75, jadi cabang SELAIN ITU yang dijalankan."
+                }
+            ]
+        },
+        {
+            "id": "M7",
+            "sem": 2,
+            "judul": "Analisis Data",
+            "ringkas": "Mengumpulkan, mengolah, membaca, dan menyajikan data.",
+            "tujuan": [
+                "Mengumpulkan dan menata data dalam tabel.",
+                "Menghitung dan menafsirkan rata-rata, modus, dan persentase.",
+                "Memilih grafik yang sesuai untuk menyajikan data."
+            ],
+            "istilah": [
+                [
+                    "Data",
+                    "Fakta atau angka hasil pengamatan."
+                ],
+                [
+                    "Responden",
+                    "Orang yang menjawab survei."
+                ],
+                [
+                    "Modus",
+                    "Nilai yang paling sering muncul."
+                ],
+                [
+                    "Persentase",
+                    "Bagian dibanding total, dikali 100%."
+                ]
+            ],
+            "latihan": {
+                "q": "Dari 40 responden, 10 memilih fotografi. Persentasenya adalah...",
+                "o": [
+                    "10%",
+                    "25%",
+                    "40%",
+                    "50%"
+                ],
+                "a": 1,
+                "w": "10 ÷ 40 × 100% = 25%."
+            },
+            "kuis": [
+                {
+                    "q": "Untuk menunjukkan perubahan jumlah pengunjung dari minggu ke minggu, grafik yang cocok adalah...",
+                    "o": [
+                        "Grafik garis",
+                        "Grafik lingkaran",
+                        "Tabel tanpa judul",
+                        "Diagram alir"
+                    ],
+                    "a": 0,
+                    "w": "Grafik garis menampilkan perubahan dari waktu ke waktu."
+                },
+                {
+                    "q": "Modus dari data 3, 5, 5, 7, 5, 9 adalah...",
+                    "o": [
+                        "3",
+                        "5",
+                        "7",
+                        "9"
+                    ],
+                    "a": 1,
+                    "w": "Modus adalah nilai yang paling sering muncul. Angka 5 muncul tiga kali."
+                },
+                {
+                    "q": "Rata-rata dari 4, 6, dan 8 adalah...",
+                    "o": [
+                        "5",
+                        "6",
+                        "7",
+                        "18"
+                    ],
+                    "a": 1,
+                    "w": "(4 + 6 + 8) ÷ 3 = 6."
+                }
+            ]
+        },
+        {
+            "id": "M8",
+            "sem": 2,
+            "judul": "Kecerdasan Artifisial",
+            "ringkas": "Konsep AI, menyusun prompt, mengevaluasi keluaran, dan etika penggunaan.",
+            "tujuan": [
+                "Menjelaskan konsep AI dan AI generatif.",
+                "Menyusun prompt yang jelas.",
+                "Mengevaluasi keluaran AI dan menerapkan etika penggunaan."
+            ],
+            "istilah": [
+                [
+                    "Kecerdasan artifisial",
+                    "Sistem komputer yang belajar pola dari data untuk membantu tugas tertentu."
+                ],
+                [
+                    "AI generatif",
+                    "AI yang membuat konten baru seperti teks atau gambar."
+                ],
+                [
+                    "Prompt",
+                    "Perintah yang kita berikan kepada AI."
+                ],
+                [
+                    "Bias",
+                    "Kecenderungan hasil yang tidak adil karena data atau cara belajar."
+                ]
+            ],
+            "latihan": {
+                "q": "Bagian prompt yang menyatakan bahwa hasil harus berupa daftar tiga poin disebut...",
+                "o": [
+                    "Tujuan",
+                    "Konteks",
+                    "Format",
+                    "Batasan"
+                ],
+                "a": 2,
+                "w": "Format menjelaskan bentuk keluaran yang diinginkan, misalnya daftar tiga poin."
+            },
+            "kuis": [
+                {
+                    "q": "Mengapa keluaran AI perlu diperiksa sebelum dipakai?",
+                    "o": [
+                        "Karena AI selalu benar",
+                        "Karena AI bisa keliru atau bias",
+                        "Karena AI tidak boleh dipakai di sekolah",
+                        "Karena AI hanya membuat angka"
+                    ],
+                    "a": 1,
+                    "w": "AI mempelajari pola dari data sehingga dapat keliru atau mengulang bias."
+                },
+                {
+                    "q": "Data yang sebaiknya tidak dimasukkan ke layanan AI adalah...",
+                    "o": [
+                        "Pertanyaan umum tentang warna",
+                        "Alamat rumah dan nomor identitas",
+                        "Ide judul poster",
+                        "Daftar langkah membuat desain"
+                    ],
+                    "a": 1,
+                    "w": "Data pribadi dapat disalahgunakan, jadi jangan dimasukkan ke layanan AI."
+                },
+                {
+                    "q": "AI generatif adalah AI yang...",
+                    "o": [
+                        "Hanya menghitung rata-rata",
+                        "Membuat konten baru seperti teks atau gambar dari perintah",
+                        "Mematikan perangkat otomatis",
+                        "Menyimpan data di server sekolah"
+                    ],
+                    "a": 1,
+                    "w": "AI generatif menghasilkan konten baru berdasarkan pola yang dipelajari dari data."
+                }
+            ]
+        },
+        {
+            "id": "M9",
+            "sem": 2,
+            "judul": "Proyek Informatika",
+            "ringkas": "Merencanakan, membuat, menguji, dan mempresentasikan solusi digital.",
+            "tujuan": [
+                "Merencanakan proyek dengan masalah, tujuan, dan jadwal yang jelas.",
+                "Membuat dan menguji prototipe.",
+                "Mempresentasikan hasil dan menulis refleksi."
+            ],
+            "istilah": [
+                [
+                    "Prototipe",
+                    "Versi awal yang dibuat untuk diuji."
+                ],
+                [
+                    "Pengguna",
+                    "Orang yang memakai solusi yang kamu buat."
+                ],
+                [
+                    "Uji pengguna",
+                    "Mengamati orang memakai prototipe untuk menemukan masalah."
+                ],
+                [
+                    "Refleksi",
+                    "Menilai proses dan hasil untuk belajar dari pengalaman."
+                ]
+            ],
+            "latihan": {
+                "q": "Tujuan utama menguji prototipe pada calon pengguna adalah...",
+                "o": [
+                    "Menunjukkan bahwa prototipe sudah sempurna",
+                    "Menemukan bagian yang membingungkan sebelum versi akhir",
+                    "Menghemat waktu presentasi",
+                    "Menghapus semua fitur"
+                ],
+                "a": 1,
+                "w": "Uji pengguna menemukan masalah lebih awal sehingga perbaikan lebih mudah."
+            },
+            "kuis": [
+                {
+                    "q": "Urutan tahap proyek yang benar adalah...",
+                    "o": [
+                        "Presentasi, uji, rencana, buat",
+                        "Rencana, buat prototipe, uji, perbaiki, presentasi",
+                        "Buat, presentasi, rencana, uji",
+                        "Uji, rencana, presentasi, buat"
+                    ],
+                    "a": 1,
+                    "w": "Proyek dimulai dari perencanaan, lalu dibuat, diuji, diperbaiki, dan dipresentasikan."
+                },
+                {
+                    "q": "Refleksi proyek berisi...",
+                    "o": [
+                        "Hanya nilai akhir",
+                        "Apa yang berhasil, apa yang diperbaiki, dan apa yang dipelajari",
+                        "Daftar nama anggota",
+                        "Salinan kode atau desain"
+                    ],
+                    "a": 1,
+                    "w": "Refleksi membantu menyimpulkan pengalaman dan menentukan perbaikan berikutnya."
+                },
+                {
+                    "q": "Prototipe adalah...",
+                    "o": [
+                        "Versi awal yang dibuat untuk diuji",
+                        "Versi akhir yang tidak boleh diubah",
+                        "Dokumen izin",
+                        "Laporan keuangan"
+                    ],
+                    "a": 0,
+                    "w": "Prototipe dibuat sederhana agar ide bisa diuji sebelum dikembangkan penuh."
+                }
+            ]
+        }
+    ],
+    "proyek": [
+        {
+            "h": "Rencanakan",
+            "d": "Tentukan masalah informasi atau promosi yang ingin kamu bantu selesaikan.",
+            "c": [
+                "Menulis masalah dalam satu kalimat",
+                "Menentukan siapa pengguna atau audiensnya",
+                "Menentukan tujuan yang bisa diukur",
+                "Membagi tugas dan jadwal"
+            ],
+            "t": "Contoh masalah: jadwal pameran karya sekolah tersebar di banyak pesan sehingga banyak siswa tidak tahu. Tujuan terukur: 8 dari 10 orang yang mencoba bisa menemukan jadwal dalam 10 detik."
+        },
+        {
+            "h": "Rancang",
+            "d": "Rancang isi dan tampilan sebelum membuat.",
+            "c": [
+                "Membuat daftar isi atau fitur utama",
+                "Membuat sketsa tata letak",
+                "Menulis alur dalam pseudocode bila ada interaksi",
+                "Memilih warna dan huruf yang mudah dibaca"
+            ],
+            "t": "Mulai dari tiga fitur saja. Fitur lain bisa ditambah setelah ada hasil uji."
+        },
+        {
+            "h": "Buat prototipe",
+            "d": "Wujudkan rancangan menjadi versi awal yang bisa dicoba.",
+            "c": [
+                "Membuat versi awal sesuai sketsa",
+                "Memakai gambar dengan lisensi yang jelas dan mencantumkan sumbernya",
+                "Menyimpan file dengan nama dan versi yang rapi",
+                "Membagikan ke tim dengan izin yang tepat"
+            ],
+            "t": "Bagikan ke pengguna uji dengan izin lihat atau komentar, bukan edit."
+        },
+        {
+            "h": "Uji",
+            "d": "Amati orang memakai prototipemu, lalu perbaiki.",
+            "c": [
+                "Meminta minimal tiga orang mencoba",
+                "Mencatat bagian yang membingungkan",
+                "Mencatat hasil, misalnya waktu atau jumlah yang berhasil",
+                "Memperbaiki bagian yang paling mengganggu"
+            ],
+            "t": "Jangan menjelaskan apa-apa saat uji. Perhatikan di mana pengguna berhenti atau bertanya."
+        },
+        {
+            "h": "Presentasikan dan refleksikan",
+            "d": "Sampaikan hasilmu dan simpulkan pelajarannya.",
+            "c": [
+                "Menyusun penyampaian: masalah, solusi, hasil uji",
+                "Mempresentasikan prototipe",
+                "Menulis refleksi",
+                "Menentukan satu perbaikan berikutnya"
+            ],
+            "t": "Pertanyaan refleksi: Apa yang berhasil? Apa yang akan kamu ubah? Apa yang kamu pelajari tentang Informatika?"
+        }
+    ],
+    "kriteria": [
+        "Masalah dan tujuan ditulis jelas",
+        "Prototipe bisa dipakai untuk satu tugas utama",
+        "Ada hasil uji dari pengguna",
+        "Sumber gambar dan data dicantumkan",
+        "Refleksi menyebut satu perbaikan berikutnya"
+    ]
+}
